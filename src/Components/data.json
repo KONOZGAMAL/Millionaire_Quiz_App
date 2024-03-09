@@ -1,0 +1,164 @@
+[
+  {
+    "id": 1,
+    "question": "1- What is React.js?",
+    "answers": [
+      { "text": " Open-source JavaScript back-end library ", "correct": false },
+      {
+        "text": " JavaScript front-end library to create a database ",
+        "correct": false
+      },
+      {
+        "text": " Free and open-source JavaScript front-end library ",
+        "correct": true
+      },
+      { "text": " None of the mentioned ", "correct": false }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "2- Which of the following acts as the input of a class-based component?",
+    "answers": [
+      { "text": " Class ", "correct": false },
+      { "text": " Props ", "correct": true },
+      { "text": " Factory ", "correct": false },
+      { "text": " None of the mentioned ", "correct": false }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "3- React.js is written in which of the following language?",
+    "answers": [
+      { "text": " C ", "correct": false },
+      { "text": " C++ ", "correct": false },
+      { "text": " Javascript ", "correct": true },
+      { "text": " Java ", "correct": false }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "4- How many elements can a valid react component return? ",
+    "answers": [
+      { "text": " React doesn’t return element ", "correct": false },
+      { "text": " 1 Element ", "correct": true },
+      { "text": " More than 1 element ", "correct": false },
+      { "text": "  None of the mentioned ", "correct": false }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "5- In which of the following directory React Components are saved?",
+    "answers": [
+      { "text": " Inside js/components/", "correct": true },
+      { "text": " Inside components/js/ ", "correct": false },
+      { "text": " Inside vendor/js/components/ ", "correct": false },
+      { "text": " Inside vendor/components/", "correct": false }
+    ]
+  },
+  {
+    "id": 6,
+    "question": "6- Which of the following command is used to Install create-react-app? ",
+    "answers": [
+      { "text": " npm install create-react-app ", "correct": false },
+      { "text": " npm install -f create-react-app ", "correct": false },
+      { "text": " npm install -g create-react-app ", "correct": true },
+      { "text": " install -g create-react-app", "correct": false }
+    ]
+  },
+  {
+    "id": 7,
+    "question": "7- In which condition is the React.js Lifecycle method static getDerivedSateFromProps(props, state) is called?",
+    "answers": [
+      {
+        "text": " When the state of the component is updated ",
+        "correct": false
+      },
+      {
+        "text": " When a component is created for the first time ",
+        "correct": false
+      },
+      { "text": " Both of the mentioned", "correct": true },
+      { "text": "  None of the mentioned", "correct": false }
+    ]
+  },
+  {
+    "id": 8,
+    "question": "8- Which of the following is method is not a part of ReactDOM?",
+    "answers": [
+      { "text": " ReactDOM.hydrate() ", "correct": false },
+      { "text": " ReactDOM.destroy() ", "correct": true },
+      { "text": " ReactDOM.createPortal() ", "correct": false },
+      { "text": "  All of the mentioned ", "correct": false }
+    ]
+  },
+  {
+    "id": 9,
+    "question": "9- Which of the following is correct about prop in react? ",
+    "answers": [
+      { "text": " Can be changed inside another component ", "correct": false },
+      { "text": " Can be changed inside the component ", "correct": false },
+      { "text": " Cannot be changed in the component ", "correct": true },
+      { "text": "  All of the mentioned ", "correct": false }
+    ]
+  },
+  {
+    "id": 10,
+    "question": "10- Which of the following is used to pass data to a component from outside in React?",
+    "answers": [
+      { "text": " props ", "correct": true },
+      { "text": " render with arguments", "correct": false },
+      { "text": " setState ", "correct": false },
+      { "text": " PropTypes", "correct": false }
+    ]
+  },
+  {
+    "id": 11,
+    "question": "11- What is the declarative way to render a dynamic list of components based on values in an array?",
+    "answers": [
+      { "text": " Using the reduce array method ", "correct": false },
+      { "text": " Using the <Each /> component ", "correct": false },
+      { "text": " Using the Array.map() method ", "correct": true },
+      { "text": " With a for/while loop ", "correct": false }
+    ]
+  },
+  {
+    "id": 12,
+    "question": "12- How many ways of defining your variables in ES6? ",
+    "answers": [
+      { "text": "1 ", "correct": false },
+      { "text": " 3 ", "correct": true },
+      { "text": " 4 ", "correct": false },
+      { "text": " 5 ", "correct": false }
+    ]
+  },
+  {
+    "id": 13,
+    "question": "13- What is a state in React?",
+    "answers": [
+      { "text": " A permanent storage. ", "correct": false },
+      { "text": " Internal storage of the component. ", "correct": true },
+      { "text": " External storage of the component. ", "correct": false },
+      { "text": " None of the above. ", "correct": false }
+    ]
+  },
+  {
+    "id": 14,
+    "question": "14- What are the two ways to handle data in React?",
+    "answers": [
+      { "text": " State & Props ", "correct": true },
+      { "text": " Services & Components ", "correct": false },
+      { "text": " State & Services ", "correct": false },
+      { "text": " State & Component ", "correct": false }
+    ]
+  },
+  {
+    "id": 15,
+    "question": "15- Which of the following option is correct in the case of the Babel?",
+    "answers": [
+      { "text": " Babel is a Compiler. ", "correct": false },
+      { "text": " Babel is a Transpilar. ", "correct": false },
+      { "text": " None of the above. ", "correct": false },
+      { "text": " Both A and B are correct. ", "correct": true }
+    ]
+  }
+]
